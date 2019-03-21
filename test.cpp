@@ -1,7 +1,7 @@
 #include<cstdio>
 int main() {
-	printf("666\n");
-	printf("666\n");
-	printf("666\n");
+	printf("master\n");
+	printf("999\n");
+	printf("999\n");
 	return 0;
 }
